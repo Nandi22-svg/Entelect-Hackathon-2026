@@ -1,0 +1,9 @@
+{
+  "name": "rangers-rescue-route",
+  "version": "1.0.0",
+  "description": "Entelect Hackademy Ranger's Rescue Route challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
